@@ -28,3 +28,10 @@ Backspace or Left Arrow: -1
 q or CTRL+C: Quit
 Counter: 0
 ```
+
+# Background
+
+I am not much of a programming, know little about Go, yet I wrote this program in about 1 hours' time using ChatGPT. It was pretty amazing. Right out of the gate it wrote a working program. The most time-consuming parts were the tweaks and then getting it put up on Github. I'm just not very skilled at using git. 
+
+The "programming" -- if you call it that -- was easy. I just kept prompting ChatGPT to add more code, different options, different keystrokes. Once I saw how it was done, I added some more manually. That's all it took to write this program. I now share it with the world and hope somebody finds it fun. I am using it to count repetitions while practicing music. 
+
